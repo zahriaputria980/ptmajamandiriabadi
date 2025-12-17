@@ -23,6 +23,9 @@ export const metadata: Metadata = {
   icons: {
     icon: "/logo.png",
   },
+  other: {
+    "facebook-domain-verification": "lioi71ae0i5p0y7p71rxtz77l8ekwp",
+  },
   openGraph: {
     title: "PT MAJA MANDIRI ABADI - Wood Manufacturing Industry",
     description: "Perusahaan terpercaya dalam industri pengolahan kayu yang menghasilkan produk berkualitas tinggi dengan standar internasional.",
