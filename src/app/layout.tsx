@@ -24,7 +24,7 @@ export const metadata: Metadata = {
     icon: "/logo.png",
   },
   other: {
-    "facebook-domain-verification": "lioi71ae0i5p0y7p71rxtz77l8ekwp",
+    "facebook-domain-verification": "3dt9l25thqnyd9pbpakdajocc4fygz",
   },
   openGraph: {
     title: "PT MAJA MANDIRI ABADI - Wood Manufacturing Industry",
